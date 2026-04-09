@@ -1,5 +1,5 @@
 // Write your solution in this file!
-const burgers= [ 'Hamburger', 'Cheeseburger'];
+const burgers= ['Hamburger', 'Cheeseburger'];
 let featuredDrink = 'Strawberry Milkshake';
 
 
@@ -9,8 +9,8 @@ function addBurger () {
 }
 
 
-if (true) {
-   const anotherNewBurger ='Maple Bacon Burger';
+if(true) {
+   const anotherNewBurger = 'Maple Bacon Burger';
    burgers.push(anotherNewBurger);
 }
 
